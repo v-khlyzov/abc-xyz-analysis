@@ -27,4 +27,4 @@
 
 ![ABC-XYZ анализ](https://github.com/v-khlyzov/abc-xyz-analysis/blob/e0e12a019b419e40d4df3448f1abe840fd1a1ae7/images/abc_xyz.png)
 
-![Excel файл с ABC](https://1drv.ms/x/c/312bded3bb6cfc05/IQDZ0FmmKy-VTLmrCyDMJYTWAYdyngHCBzlQvFM_ODWF5Uk?e=KpqnyO)
+![Excel файл с ABC](https://onedrive.live.com/:x:/g/personal/312bded3bb6cfc05/IQDZ0FmmKy-VTLmrCyDMJYTWAYdyngHCBzlQvFM_ODWF5Uk?rtime=y9k6ww3j3kg&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy8zMTJiZGVkM2JiNmNmYzA1L0lRRFowRm1tS3ktVlRMbXJDeURNSllUV0FZZHluZ0hDQnpsUXZGTV9PRFdGNVVrP2U9T2xacnJP)
