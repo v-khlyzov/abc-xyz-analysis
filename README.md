@@ -1,6 +1,5 @@
 # ABC-XYZ анализ ассортимента для определения стратегии управления запасами
 **Суть задачи:** Показать, как на основании истории продаж разделить ассортимент по приоритетам и определить разные стратегии управления запасами.
-![ABC-XYZ анализ](https://github.com/v-khlyzov/new-ranking-assessment/blob/03190f5a9ec1a5f8386a4d4cf3793e9dbec41b22/images/%D1%80%D0%B0%D1%81%D1%87%D0%B5%D1%82%20%D1%81%D1%80%D0%B5%D0%B4%D0%BD%D0%B5%D0%B2%D0%B7%D0%B2%D0%B5%D1%88%D0%B5%D0%BD%D0%BD%D1%8B%D1%85%20%D0%BF%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%BE%D0%B2%20PDP.png)
 
 **Данные:** Использован искусственный набор данных, имитирующий продажи товаров за несколько недель.
 
@@ -26,4 +25,5 @@
 | CY        | Заказывать по потребности                        |
 | CZ        | Рассмотреть вывод из ассортимента                |
 
+![ABC-XYZ анализ]((https://github.com/v-khlyzov/abc-xyz-analysis/blob/e0e12a019b419e40d4df3448f1abe840fd1a1ae7/images/abc_xyz.png)
 ![Excel файл с ABC](https://1drv.ms/x/c/312bded3bb6cfc05/IQDZ0FmmKy-VTLmrCyDMJYTWAYdyngHCBzlQvFM_ODWF5Uk?e=KpqnyO)
