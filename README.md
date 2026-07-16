@@ -25,5 +25,5 @@
 | CY        | Заказывать по потребности                        |
 | CZ        | Рассмотреть вывод из ассортимента                |
 
-![ABC-XYZ анализ][((https://github.com/v-khlyzov/abc-xyz-analysis/blob/e0e12a019b419e40d4df3448f1abe840fd1a1ae7/images/abc_xyz.png)](https://github.com/v-khlyzov/abc-xyz-analysis/blob/e0e12a019b419e40d4df3448f1abe840fd1a1ae7/images/abc_xyz.png)
+![ABC-XYZ анализ](https://github.com/v-khlyzov/abc-xyz-analysis/blob/e0e12a019b419e40d4df3448f1abe840fd1a1ae7/images/abc_xyz.png)
 ![Excel файл с ABC](https://1drv.ms/x/c/312bded3bb6cfc05/IQDZ0FmmKy-VTLmrCyDMJYTWAYdyngHCBzlQvFM_ODWF5Uk?e=KpqnyO)
